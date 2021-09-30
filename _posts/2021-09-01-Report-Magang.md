@@ -24,3 +24,6 @@ categories: dsm
 | 22/09/2021 | Report | - | - | - |
 | 25/09/2021 | Belajar Jeckyll | - | - | [https://github.com/thefvnday/magang-refactory.git](https://github.com/thefvnday/magang-refactory.git) |
 | 26/09/2021 | Membuat daily activity menggunakan jeckll | - | - | [https://github.com/thefvnday/magang-refactory.git](https://github.com/thefvnday/magang-refactory.git) |
+| 27/09/2021 | Mencoba buat tampilan setelah login | Terjadi kesalahan ketika menggunakan android studio sehingga semua folder login register kehapus | Bikin baru project dikarenakan sudah dicari di recycle bin tidak ada | [https://github.com/thefvnday/Shoes-Mobile.git](https://github.com/thefvnday/Shoes-Mobile.git) |
+| 28/09/2021 | Update isi Jekyll menambahkan blocker n solved | - | - | [https://github.com/thefvnday/magang-refactory.git](https://github.com/thefvnday/magang-refactory.git) |
+| 29/09/2021 | Reporting | - | - | - |
