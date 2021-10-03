@@ -27,3 +27,10 @@ categories: dsm
 | 27/09/2021 | Mencoba buat tampilan setelah login | Terjadi kesalahan ketika menggunakan android studio sehingga semua folder login register kehapus | Bikin baru project dikarenakan sudah dicari di recycle bin tidak ada | [https://github.com/thefvnday/Shoes-Mobile.git](https://github.com/thefvnday/Shoes-Mobile.git) |
 | 28/09/2021 | Update isi Jekyll menambahkan blocker n solved | - | - | [https://github.com/thefvnday/magang-refactory.git](https://github.com/thefvnday/magang-refactory.git) |
 | 29/09/2021 | Reporting | - | - | - |
+| 30/09/2021 | Membuat landing page welcome, merubah tampilan login dan register baru | Dikarenakan desain awal terlalu sederhana ,mencoba membuat tampilan register dan login baru | - | - |
+|
+ |
+ |
+ |
+ |
+ |
