@@ -30,3 +30,6 @@ categories: dsm
 | 30/09/2021 – 04/10/2021 | Membuat landing page welcome, merubah tampilan login dan register baru | Dikarenakan desain awal terlalu sederhana ,mencoba membuat tampilan register dan login baru | - | - |
 | 05/10/2021 | Membuat landing page welcome, merubah tampilan login dan register baru | Pada bagian landing page home tidak bisa simetris ke tengah, bagian show password belum bisa, emulator error jadi sementara pakai emulator hp | Coba cari tutor yt dan stackoverflow | - |
 | 06/10/2021 | Reporting | Masih sama | Dibantu mas hanif | - |
+| 07/10/2021 | Membuat show password | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 08/10/2021 | Menambahkan icon google,facebook, twitter | Untuk icon tidak terbaca | Mencari-cari | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 11/10/2021 | Berhasil menambahkan icon | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
