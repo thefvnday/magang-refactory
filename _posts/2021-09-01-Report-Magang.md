@@ -18,7 +18,7 @@ categories: dsm
 | 10 /09/ 2021 | Belajar lagi dart basic dan flutter basic | - | - | [https://github.com/thefvnday/Flutter\_Basic.git](https://github.com/thefvnday/Flutter_Basic.git) \*\*\*[https://github.com/thefvnday/Dart\_Basic.git](https://github.com/thefvnday/Dart_Basic.git) |
 | 13 /09/ 2021 | Belajar flutter basic dan dart basic | - | - | [https://github.com/thefvnday/Flutter\_Basic.git](https://github.com/thefvnday/Flutter_Basic.git) \*\*\*[https://github.com/thefvnday/Dart\_Basic.git](https://github.com/thefvnday/Dart_Basic.git) |
 | 14/09/2021 | Mencoba memeulai project dengan menerapkan flutter | - | - | - |
-| 15/09/2021 | Membuat desin ui dengan menggunakan figma | - | - | [https://www.figma.com/file/04yaV10B40YQkDY6DgbB8I/OnlineStore?fuid=1011458132264326773](https://www.figma.com/file/04yaV10B40YQkDY6DgbB8I/OnlineStore?fuid=1011458132264326773) |
+| 15/09/2021 | Membuat desin ui dengan menggunakan figma | - | - | [https://www.figma.com/file/nhi9P4tYBLu5l8oorslkq1/MobileOnlineStore?node-id=0%3A1](https://www.figma.com/file/nhi9P4tYBLu5l8oorslkq1/MobileOnlineStore?node-id=0%3A1) |
 | 16/09/2021 | Laporan mingguan dengan mbk ira | - | - | - |
 | 20/09/2021 | Mencoba membuat tampilan login n register | - | - | [https://github.com/thefvnday/Shoes-Mobile.git](https://github.com/thefvnday/Shoes-Mobile.git) |
 | 22/09/2021 | Report | - | - | - |
@@ -33,3 +33,4 @@ categories: dsm
 | 07/10/2021 | Membuat show password | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
 | 08/10/2021 | Menambahkan icon google,facebook, twitter | Untuk icon tidak terbaca | Mencari-cari | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
 | 11/10/2021 | Berhasil menambahkan icon | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 12/11/2021 | - | Error pada gradle sdk, | Searching google n yt | - |
