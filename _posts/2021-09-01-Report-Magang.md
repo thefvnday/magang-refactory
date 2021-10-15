@@ -33,4 +33,6 @@ categories: dsm
 | 07/10/2021 | Membuat show password | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
 | 08/10/2021 | Menambahkan icon google,facebook, twitter | Untuk icon tidak terbaca | Mencari-cari | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
 | 11/10/2021 | Berhasil menambahkan icon | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
-| 12/11/2021 | - | Error pada gradle sdk, | Searching google n yt | - |
+| 12/10/2021 | - | Error pada gradle sdk, | Searching google n yt | - |
+| 13/10/2021 | Reporting | - | - | - |
+| 14/10/2021 | Menambahkan carousel slider | Ingin membuat menjadi widget sendiri dengan file terpisah namun belum bisa | Googling n yt tapi masih belum bisa | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
