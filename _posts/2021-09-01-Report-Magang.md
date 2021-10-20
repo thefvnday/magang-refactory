@@ -36,3 +36,7 @@ categories: dsm
 | 12/10/2021 | - | Error pada gradle sdk, | Searching google n yt | - |
 | 13/10/2021 | Reporting | - | - | - |
 | 14/10/2021 | Menambahkan carousel slider | Ingin membuat menjadi widget sendiri dengan file terpisah namun belum bisa | Googling n yt tapi masih belum bisa | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 15/10/201 | Belajar State Management Bloc | Masih belum mendapat gambaran untuk implemantasi di project ini | Mencari referensi internet | - |
+| 17/10/2021 | Mengubah warna tampilan, menganti icon, dan menambahkan wave blob | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 18/10/2021 | Menambahkan list menu di sidebar menggunakan library drawer | Tampilan belum sempurna | Sudah mencari library drawer lain namun tetap tidak menemukan titik terang, akan ditanyakan ketika dsm | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 19/10/2021 | Menambahkan route dan validasi pada sign in dan signup | Validasi masih error | Mencari tutorial di yt dan stacoverflow | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
