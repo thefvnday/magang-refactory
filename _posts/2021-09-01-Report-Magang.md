@@ -40,3 +40,12 @@ categories: dsm
 | 17/10/2021 | Mengubah warna tampilan, menganti icon, dan menambahkan wave blob | - | - | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
 | 18/10/2021 | Menambahkan list menu di sidebar menggunakan library drawer | Tampilan belum sempurna | Sudah mencari library drawer lain namun tetap tidak menemukan titik terang, akan ditanyakan ketika dsm | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
 | 19/10/2021 | Menambahkan route dan validasi pada sign in dan signup | Validasi masih error | Mencari tutorial di yt dan stacoverflow | [https://github.com/thefvnday/Shoes-Frontend-Flutter.git](https://github.com/thefvnday/Shoes-Frontend-Flutter.git) |
+| 21/10/2021 | Reporting | - | - | - |
+| 22/11/2021 | Diberikan tugas berupa logic test, json, todo list (mengerjakan logic test) | logic test reversed word binggung cara melakukan pengecekan dengan perulangan untuk huruf kapitalnya | Saya coba cari cara di stackoverflow, google, hingga tanya teman. | [https://github.com/thefvnday/RoadToIP.git](https://github.com/thefvnday/RoadToIP.git) |
+| 23/10/2021 | Mengerjakan soal json | Error pada soal epochdate | Search google, stackoverflow, tanya temen | [https://github.com/thefvnday/RoadToIP.git](https://github.com/thefvnday/RoadToIP.git) |
+| 24/10/2001 | Mengerjakan ToDo List | Error ketika mencoba membuat crud dan login dengan firebase | Tanya ke mentor(mas hanif), tapi ga keburu soalnya langsung hari minggunya sudah dateline | [https://github.com/thefvnday/RoadToIP.git](https://github.com/thefvnday/RoadToIP.git) |
+| 25/10/2021 | Mencoba melanjutkan beberapa soal logic, json, n todo list | - | - | [https://github.com/thefvnday/RoadToIP.git](https://github.com/thefvnday/RoadToIP.git)
+ |
+| 26/10/2021 | Interview dengan HR | - | - | - |
+| 27/10/2021 | Pembekalan untuk skill test | - | - | [https://github.com/thefvnday/RoadToIP.git](https://github.com/thefvnday/RoadToIP.git) |
+| 28/10/2021 | Final Interview | - | - | - |
